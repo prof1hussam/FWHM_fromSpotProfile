@@ -33,7 +33,7 @@ When you run the script, a dialogue box will appear:
 | **Estimated FWHM** | The expected width of your structure (in microns). |
 | **Min High R2** | Minimum $R^2$ for the validated (good) axis. |
 | **Max Low R2** | Maximum $R^2$ for the "bad" axis (to ensure elongation). |
-| **Contains Cell Wall?** | **Checked:** Strict filter ($0.5x$ - $2x$ Est. FWHM). <br> **Unchecked:** Broad filter ($0.1x$ - $5x$ Est. FWHM). |
+| **Contains Cell Wall?** | **Checked:** Strict filter ($0.2x$ - $3x$ Est. FWHM). <br> **Unchecked:** Broad filter ($0.1x$ - $5x$ Est. FWHM). |
 
 ## Output
 The macro generates two `.csv` files in your specified destination folder:
